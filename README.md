@@ -1,6 +1,6 @@
 # HF Example
 
-This is an example use of HF written for this [tutorial](https://www.markdownguide.org).
+This is an example use of HF written for this [tutorial](https://youtu.be/sq3xKFT4su4).
 
 ### Installation
 
